@@ -93,45 +93,6 @@ Each project includes:
 - 🏷️ Technology stack used
 - 📝 Detailed project description
 
-## 🎓 Experience & Education
-
-- **B.Sc. Computer Science & Engineering** - Green University of Bangladesh (2020-2024)
-- **Frontend Developer Intern** - Battery Low Interactive Ltd. (Oct 2023 - Jan 2024)
-- **Higher Secondary Certificate** - St. Gregory's High School & College, Dhaka (2017-2019)
-
-## 🧠 Skills
-
-### Design Tools
-- Figma, Photoshop, Blender
-
-### Web Technologies
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
-
-### Frontend Frameworks & Libraries
-- React.js, Next.js, Tailwind CSS, Framer Motion, Three.js
-
-### Tools & Platforms
-- VS Code, Vite, Node.js, MongoDB, GitHub
-
-## 🌐 Live Demo
-
-Visit the portfolio: [avik-portfolio.netlify.app](https://avik-portfolio.netlify.app/)
-
-## 🔗 Connect With Me
-
-- **GitHub**: [@Avik-Devik](https://github.com/Avik-Devik)
-- **LinkedIn**: [Avik Das](https://www.linkedin.com/in/avik-das-226133ok/)
-- **Instagram**: [@avikkdas](https://www.instagram.com/avikkdas/)
-- **Facebook**: [Avik Das](https://www.facebook.com/avik.das.226133)
-
-## 🎯 About Me
-
-I'm Avik Kumar Das, a passionate **Frontend Developer** based in Dhaka, Bangladesh, with a strong focus on building modern, responsive, and user-friendly web applications. I excel at transforming ideas and designs into clean, functional interfaces using React.js, JavaScript (ES6+), and Tailwind CSS.
-
-With experience in building real-world projects including e-commerce platforms, movie apps, and task management systems, I've strengthened my skills in state management, responsive design, and scalable frontend architecture.
-
-**Currently seeking opportunities** to grow as a frontend developer and collaborate on impactful projects. 🚀
-
 ## 📝 Project Structure
 
 ```
@@ -173,25 +134,9 @@ my-portfolio/
 └── package.json            # Dependencies and scripts
 ```
 
-## 🎨 Customization
-
-To customize this portfolio for your own use:
-
-1. **Update personal info** in [src/assets/index.js](src/assets/index.js):
-   - Change `aboutText` with your bio
-   - Update `experienceData` with your education and work experience
-   - Modify `skillsData` with your skills
-   - Replace `projectsData` with your projects
-
-2. **Update social links** in the assets file
-3. **Replace project images** in `public/projects/`
-4. **Replace skill icons** in `public/skills/`
-5. **Modify colors** in [tailwind.config.js](tailwind.config.js)
-6. **Update metadata** in [src/app/layout.js](src/app/layout.js)
-
 ## 🚀 Deployment
 
-### Deploy on Vercel (Recommended)
+### Deploy on Vercel
 
 The easiest way to deploy is using [Vercel](https://vercel.com/):
 
@@ -211,18 +156,5 @@ npm run build
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to:
-- Fork the repository
-- Create a feature branch
-- Submit a pull request
-
-## ⭐ Show Your Support
-
-If you found this portfolio helpful or inspiring, please consider giving it a star! It means a lot. 🌟
-
----
 
 **Made with ❤️ by Avik Das | © 2024 All Rights Reserved**
